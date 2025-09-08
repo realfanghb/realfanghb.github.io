@@ -12,7 +12,7 @@ title: "Haobo Fang's Home Page"
 title_separator: "-"
 name: &name "Haobo Fang"
 description: &description "B.S. in Computer Engineering, University of Michigan; B.S. in Mechanical Engineering, Shanghai Jiao Tong University."
-url: https://fanghb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://realfanghb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "fanghb.github.io"
 
