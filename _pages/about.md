@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Yinghui He 何映晖"
+title: "Haobo Fang 方浩博"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi there! I'm Yinghui He (pronounced as _Yee·ng-Hway Huh_), a second-year PhD student at Princeton University Computer Science Department. I'm honored to be advised by [Sanjeev Arora](https://www.cs.princeton.edu/~arora/) at [Princeton Language and Intelligence](https://pli.princeton.edu/) (PLI). I work in Natural Language Processing, pursuing to develop LLMs and agents to understand the two-way relation between artificial intelligence and human cognition. I finished my Bachelor's degree in Computer Science at the University of Michigan, where I had the honor to work with [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) (at the [LIT Lab](https://lit.eecs.umich.edu/)) and [Wei Hu](https://weihu.me/).
+Hi there! I'm Haobo Fang, a fourth-year undergraduate student at University of Michigan Electrical and Computer Engineering Department. I'm honored to be advised by [Xiaonan (Sean) Huang](https://robotics.umich.edu/people/faculty/xiaonan-sean-huang/) at [Hybrid Dynamic Robotics Lab](https://soft.robotics.umich.edu/). My research focuses on developing scalable, adaptable, and reliable robots for human interaction in everyday activities. I explore origami-inspired soft arms, bio-inspired robots, cutting-edge control systems, and smarter manufacturing through learning. I am also currecntly pursuing my Bachelor's degree in Mechanical Engineering at Shanghai Jiao Tong University, where I had the honor to work with [Youyi Bi](https://www.ji.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/24/) at [Data-informed Design and Intelligent Systems Lab](https://sites.gc.sjtu.edu.cn/youyibi/people/).
 
 # Publications
 
@@ -22,3 +22,7 @@ Hi there! I'm Yinghui He (pronounced as _Yee·ng-Hway Huh_), a second-year PhD s
 {% endfor %}
 {% endfor %}
 {% endif %}
+
+# CV
+
+Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf) or visit the CV tag.

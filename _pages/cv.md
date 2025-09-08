@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: ""
+
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,44 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
+
+
 # Education
 
-- Ph.D in Computer Science, _Princeton University_, 2024~Present
-- Bachelor's degree in Computer Science, _University of Michigan_, 2022~2024 **(GPA: 3.98 / 4.00)**
-- Bachelor's degree in ECE, _Shanghai Jiao Tong University_, 2020~2024 **(GPA: 3.92 / 4.00, Ranking: 1 / 234)**
+- Bachelor's degree in Computer Engineering, _University of Michigan_, 2020~2024 **(GPA: 3.91 / 4.00)**
+- Bachelor's degree in Mechanical Engineering, _Shanghai Jiao Tong University_, 2020~2024 **(GPA: 3.82 / 4.00)**
 
 # Research / Internship
 
-- [Princeton Language and Intelligence](https://pli.princeton.edu/) (advised by Sanjeev Arora), Present
-- [Stanford Artificial Intelligence Laboratory](https://ai.stanford.edu/) (advised by Diyi Yang), 2023
-- [Language and Information Technologies](https://lit.eecs.umich.edu/) (advised by Rada Mihalcea), 2023
-- [Real-Time Computing Laboratory](https://rtcl.eecs.umich.edu/rtclweb/) (advised by Kang G. Shin), 2023
-- VMware Shanghai (Research Intern), 2022
+- [Hybrid Dynamic Robotics Lab](https://soft.robotics.umich.edu/) (advised by Xiaonan (Sean) Huang), Present
+- [Data-informed Design and Intelligent Systems Lab](https://sites.gc.sjtu.edu.cn/youyibi/people/) (advised by Youyi Bi), 2023-2024
 
 # Scholarship
 
-- _National Scholarship of China_ **(国家奖学金, Top 2%)**, Ministry of Education of the People’s Republic of China, 2021
-- _SJTU Undergraduate Excellence Scholarship_ **(Top 1%)**, Shanghai Jiao Tong University, 2021
-- _John Wu and Jane Sun Excellence Scholarship_ **(Top 5%)**, Shanghai Jiao Tong University, 2021
-- _Fan Xuji Scholarship_ **(Top 1%)**, Shanghai Jiao Tong University, 2022
-- _The Jackson and Muriel Lum Scholarship_, University of Michigan, 2022
+- _The Jackson and Muriel Lum Scholarship_, University of Michigan, 2024, 2025
+- _Huatai Securities Technology Scholarship_, Shanghai Jiao Tong University, 2024
+- _Top Student in Morality, Intelligence, and Fitness (top 3%)_, Shanghai Jiao Tong University, 2023
+- _C-level Scholarship_, Shanghai Jiao Tong University, 2023
 
-# Teaching
+# Service
 
-- Intro to Computer Science Theory, Winter 2024  
-  _University of Michigan, EECS Department_
-- Physics I, Summer 2022  
-  _Shanghai Jiao Tong University_
-- Chemistry I, Fall 2021  
-  _Shanghai Jiao Tong University_
-- Academic Writing Consultant, 2021-2022  
-  _Shanghai Jiao Tong University_
+- **Instructional Assistant**, Intro to Signals and Systems, _University of Michigan, EECS Department_, Shanghai, Fall 2025
+- **Volunteer**, _IEEE International Conference on Robotics and Automation (ICRA)_, Atlanta, May 2025
+- **Captain**, _Eighth Rochang Chucai Plan_, Shanghai, 2024
+- **Captain Assistant**, _Miyuan Youth Volunteer Group_, Shanghai, 2024
 
 # Honor & Awards
 
-- _Dean’s List_, University of Michigan, 2023, 2024
-- _Finalist Award_ **(Top 2%)**, Mathematical Contest in Modelling, 2022
-- _First Place_, Media University-Enterprise Global Innovation Competition, 2021
-- _Bronze Medal_, University Physics Competition, 2021
-- _Outstanding Participant_, United Nations Global Youth Leadership Academy Summer Learning Program, 2021
+- _Dean’s Honor List_, University of Michigan, 2025
+- **_Best Poster Award_**, ICRA 2025 Workshop, 2025
+- **_Gold Award_**, China International College Students’ Innovation Competition, 2024
+- _Honorable Mention_, Mathematical Contest in Modelling, 2024
+- _Bronze Medal_, University Physics Competition, 2023
+- _Second Prize_, Liming Cup Mechanical Innovation Competition, 2023
   1
