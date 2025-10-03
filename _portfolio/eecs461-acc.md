@@ -10,6 +10,8 @@ pdf: "/files/EECS461_ACC_Final_Report.pdf"
 
 ![Haptic wheel and Simulink-based ACC framework](/images/eecs461-acc.jpg)
 
+**_Group Members_**: **Haobo Fang**, Guanyu Xu.
+
 **_Project Status_**: Completed (Winter 2025).
 For more details, see our [project manual](/files/EECS461_ACC_Project_Manual.pdf) and [final report](/files/EECS461_ACC_Final_Report.pdf).
 

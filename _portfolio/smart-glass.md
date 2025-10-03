@@ -10,6 +10,8 @@ pdf: "/files/15_SmartGlass.pdf"
 
 ![Functional diagram of the base station](/images/smart-glass2.jpg)
 
+**_Group Members_**: **Haobo Fang**, Guanyu Xu, Ruopu Dong, Zhuoyang Chen, Jinlin Li, Yizhe Shen
+
 **_Project Status_**: In Progress.
 For more implementation details, please refer to our [proposal](/files/15_SmartGlass.pdf).
 
