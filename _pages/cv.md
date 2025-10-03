@@ -31,8 +31,9 @@ Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
 
 # Service
 
-- **Instructional Assistant**, Intro to Signals and Systems, _University of Michigan, EECS Department_, Shanghai, Fall 2025
+- **Instructional Assistant**, EECS 216 Intro to Signals and Systems, _University of Michigan_, Ann Arbor, Fall 2025
 - **Volunteer**, _IEEE International Conference on Robotics and Automation (ICRA)_, Atlanta, May 2025
+- **Presenter**, _IEEE International Conference on Robotics and Automation (ICRA) workshop_, Atlanta, May 2025
 - **Captain**, _Eighth Rochang Chucai Plan_, Shanghai, 2024
 - **Captain Assistant**, _Miyuan Youth Volunteer Group_, Shanghai, 2024
 
@@ -44,4 +45,3 @@ Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
 - _Honorable Mention_, Mathematical Contest in Modelling, 2024
 - _Bronze Medal_, University Physics Competition, 2023
 - _Second Prize_, Liming Cup Mechanical Innovation Competition, 2023
-  1

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/portfolio/smart-glass/</loc>
+<lastmod>2025-09-28T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/posts/2012/08/blog-post-1/</loc>
 <lastmod>2012-08-14T00:00:00+00:00</lastmod>
 </url>
@@ -39,6 +43,10 @@
 <url>
 <loc>http://localhost:4000/posts/2012/08/blog-post-4/</loc>
 <lastmod>2199-01-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/publication/patent</loc>
+<lastmod>2025-05-14T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/publication/origami</loc>
@@ -128,8 +136,12 @@
 <loc>http://localhost:4000/year-archive/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/files/15_SmartGlass.pdf</loc>
+<lastmod>2025-10-02T22:23:03+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/files/Resume_Haobo_Fang.pdf</loc>
-<lastmod>2025-09-08T02:10:51+00:00</lastmod>
+<lastmod>2025-10-02T21:13:39+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/paper1.pdf</loc>
@@ -142,6 +154,10 @@
 <url>
 <loc>http://localhost:4000/files/paper3.pdf</loc>
 <lastmod>2025-09-07T14:25:42+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/patent.pdf</loc>
+<lastmod>2025-10-02T20:55:27+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/slides1.pdf</loc>
