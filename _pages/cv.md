@@ -15,7 +15,7 @@ Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
 # Education
 
 - Bachelor's degree in Computer Engineering, _University of Michigan_, 2020~2024 **(GPA: 3.91 / 4.00)**
-- Bachelor's degree in Mechanical Engineering, _Shanghai Jiao Tong University_, 2020~2024 **(GPA: 3.82 / 4.00)**
+- Bachelor's degree in Mechanical Engineering, _Shanghai Jiao Tong University_, 2020~2024 **(GPA: 3.76 / 4.00)**
 
 # Research / Internship
 

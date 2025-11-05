@@ -11,6 +11,19 @@ paperurl: "/files/patent.pdf"
 ---
 
 ![Modular design with quick-release, embedded routing, and parallel origami actuation](/images/big-arm.jpg)
+<video
+  controls
+  autoplay
+  muted
+  loop
+  playsinline
+  preload="metadata"
+  style="width:100%;max-width:900px;border-radius:12px;">
+  <source src="{{ '/videos/20kglifting.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 **_Abstract_**: Soft pneumatic robotic arms have emerged as
 promising alternatives to conventional rigid manipulators, of-

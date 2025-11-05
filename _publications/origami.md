@@ -12,4 +12,16 @@ paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&u
 
 ![Implemented modularity in both electrical and mechanical design](/images/origami-modular-feature.jpg)
 
+<video
+  controls
+  autoplay
+  muted
+  loop
+  playsinline
+  preload="metadata"
+  style="width:100%;max-width:900px;border-radius:12px;">
+  <source src="{{ '/videos/finalfinal.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **_Abstract_**: Soft pneumatic robotic arms have recently emerged as promising alternatives to rigid manipulators due to their compliance, adaptability, and inherent safety. However, their deployment in space environments remains constrained by structural inflexibility, limited reconfigurability, and reliance on bulky external pneumatic sources. This work presents a lightweight, modular, and electronics-integrated soft robotic arm tailored for application scenarios that demand fault tolerance, adaptability, and robustness. The arm is composed of plug-and-play modules integrating 3D-printed Kresling origami actuators, proprioceptive sensing, and CAN-based communication, allowing dynamic adjustment of arm length and configuration to accommodate diverse operational scenarios. The embedded control architecture enables real-time trajectory tracking with an average relative error of 2.57% under multimodule configurations. Its modularity, versatility and repeatability offer key advantages for resilient and reconfigurable operation in future long-duration space missions, demonstrating strong potential for space robotics applications, particularly in autonomous inspection, maintenance, and sample collection in uncertain or low-gravity environments.
