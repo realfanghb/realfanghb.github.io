@@ -81,6 +81,8 @@ publication_category:
     title: "Conference / Workshop Papers"
   patents:
     title: "Patents"
+  ongoing:
+    title: "Ongoing Projects"
 
 # Site Settings
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

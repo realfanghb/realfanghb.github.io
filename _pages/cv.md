@@ -37,7 +37,7 @@ Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
 - **Captain**, _Eighth Rochang Chucai Plan_, Shanghai, 2024
 - **Captain Assistant**, _Miyuan Youth Volunteer Group_, Shanghai, 2024
 
-# Honor & Awards
+# Honors & Awards
 
 - _Dean’s Honor List_, University of Michigan, 2025
 - **_Best Poster Award_**, ICRA 2025 Workshop, 2025
