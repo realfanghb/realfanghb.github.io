@@ -24,8 +24,8 @@ Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
 
 # Scholarship
 
-- _The Jackson and Muriel Lum Scholarship_, University of Michigan, 2024, 2025
-- _Huatai Securities Technology Scholarship_, Shanghai Jiao Tong University, 2024
+- _The Jackson and Muriel Lum Scholarship (top 2%)_, University of Michigan, 2024, 2025
+- _Huatai Securities Technology Scholarship (top 1%)_, Shanghai Jiao Tong University, 2024
 - _Top Student in Morality, Intelligence, and Fitness (top 3%)_, Shanghai Jiao Tong University, 2023
 - _C-level Scholarship_, Shanghai Jiao Tong University, 2023
 

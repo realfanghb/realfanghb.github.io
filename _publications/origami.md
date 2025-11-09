@@ -1,7 +1,7 @@
 ---
 title: "Origami-Inspired Modular Soft Robotic Arm"
 collection: publications
-category: conferences
+category: arxiv
 permalink: /publication/origami
 citation: "Jiyang Wang, Yuchen You, Xinqi Zhang, <b>Haobo Fang</b>, Jiaqi Wang, Xiaonan (Sean) Huang"
 excerpt: Soft robots promise safety and adaptability, but bulky pneumatics limit their reach in space. Can we design modules that reconfigure on demand, while staying lightweight and reliable? Naive designs collapse under load. We introduce a modular soft arm built from Kresling origami actuators with embedded sensing and CAN communication, achieving 2.57% tracking error and lifting over 20× its own weight. Adaptable, fault-tolerant, and compact—an enabling step for resilient space robotics

@@ -75,10 +75,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  arxiv:
-    title: "Submitted / Arxiv preprint Papers"
+  journal:
+    title: "Journal Articles"
   conferences:
-    title: "Conference / Workshop Papers"
+    title: "Conference Articles"
+  arxiv:
+    title: "Workshop Articles / Arxiv preprint"
   patents:
     title: "Patents"
   ongoing:
