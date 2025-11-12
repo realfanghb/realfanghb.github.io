@@ -1,10 +1,11 @@
 ---
 title: "Smart Assistive Glasses for the Visually Impaired"
 collection: portfolio
+tags: [projects]
 permalink: /portfolio/smart-glass/
 excerpt: "A wearable system integrating ESP32-S3 smart glasses and a Jetson-based base station to provide real-time obstacle-aware navigation and scene description for visually impaired users."
 date: 2025-09-28
-venue: "EECS 473 Advanced Embedded Systems Project – University of Michigan"
+venue: "EECS 473 Advanced Embedded Systems – University of Michigan"
 pdf: "/files/15_SmartGlass.pdf"
 ---
 

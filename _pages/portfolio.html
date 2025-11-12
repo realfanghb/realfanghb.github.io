@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Course Projects"
 permalink: /portfolio/
 author_profile: true
 ---
@@ -8,6 +7,28 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+
+<h2 style="font-size:2.2rem;margin-top:1.5rem">Course Projects</h2>
+{% assign course = site.portfolio | where_exp: "p", "p.tags contains 'projects'" %}
+{% for post in course %}
   {% include archive-single-portfolio.html %}
 {% endfor %}
+
+<h2 style="font-size:2.2rem;margin-top:1.5rem">Topic Portfolio</h2>
+{% assign course_posts = site.portfolio | where_exp: "p", "p.tags contains 'courses'" %}
+
+<h3 style="font-size:1.5rem;margin-top:1rem">Control System &amp; Signals</h3>
+{% for post in course_posts %}
+  {% if post.tags contains 'control' %}
+    {% include archive-single-portfolio.html %}
+  {% endif %}
+{% endfor %}
+
+<h3 style="font-size:1.5rem;margin-top:1rem">Embedded System</h3>
+{% for post in course_posts %}
+  {% if post.tags contains 'embedded' %}
+    {% include archive-single-portfolio.html %}
+  {% endif %}
+{% endfor %}
+
+

@@ -2,6 +2,7 @@
 title: "Embedded Control Systems: Adaptive Cruise Control with Haptic Interface"
 collection: portfolio
 permalink: /portfolio/eecs461-acc/
+tags: [projects]
 excerpt: "Course-long exploration of embedded control using NXP S32K144 microcontroller and haptic wheel interface, culminating in an Adaptive Cruise Control (ACC) system with automatic steering."
 date: 2025-04-20
 venue: "EECS 461 Embedded Control Systems – University of Michigan"

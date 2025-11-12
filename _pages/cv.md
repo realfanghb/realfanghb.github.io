@@ -29,13 +29,16 @@ Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
 - _Top Student in Morality, Intelligence, and Fitness (top 3%)_, Shanghai Jiao Tong University, 2023
 - _C-level Scholarship_, Shanghai Jiao Tong University, 2023
 
-# Service
+# Service & Leadership
 
 - **Instructional Assistant**, EECS 216 Intro to Signals and Systems, _University of Michigan_, Ann Arbor, Fall 2025
-- **Volunteer**, _IEEE International Conference on Robotics and Automation (ICRA)_, Atlanta, May 2025
-- **Presenter**, _IEEE International Conference on Robotics and Automation (ICRA) workshop_, Atlanta, May 2025
+- **Volunteer**, _IEEE International Conference on Robotics and Automation (**ICRA**)_, Atlanta, May 2025
+- **Presenter**, _IEEE International Conference on Robotics and Automation (**ICRA**) workshop_, Atlanta, May 2025
 - **Captain**, _Eighth Rochang Chucai Plan_, Shanghai, 2024
+- **Member**, **_Gansu Afforestation Volunteer Group_**, Gansu, 2024
+- **Captain**, **_Yunan Volunteer Teaching Group_**, Yunnan, 2024
 - **Captain Assistant**, _Miyuan Youth Volunteer Group_, Shanghai, 2024
+- **Member**, **_Yunan Volunteer Teaching Group_**, Yunnan, 2023
 
 # Honors & Awards
 
