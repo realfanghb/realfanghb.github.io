@@ -6,7 +6,7 @@ permalink: /publication/patent
 citation: "Jiyang Wang, Yuchen You, Xinqi Zhang, <b>Haobo Fang</b>, Jiaqi Wang, Xiaonan (Sean) Huang"
 excerpt: We present a lightweight, modular soft robotic arm built from origami-inspired plug-and-play modules with embedded proprioception. The system achieves millimeter-scale precision, over 10 kg payload, and on-demand reconfigurability, while remaining compact (<3 kg, <$2,000). Validated in payload and precision tests, it offers a scalable and safe alternative to rigid manipulators for automation, inspection, and space exploration.
 date: 2025-05-14
-venue: "US Patent, Pending"
+venue: "Provisional patent in preparation, U-M File 2025-609"
 paperurl: "/files/patent.pdf"
 ---
 
