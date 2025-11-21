@@ -6,7 +6,7 @@ permalink: /publication/clip_fish
 citation: "<b>Haobo Fang</b>, Dezhong Tong, Jiyang Wang, Jiaqi Wang, Xiaonan (Sean) Huang"
 excerpt: An insect-scale “clip fish” that snaps its tail via electromagnetic actuation and structural bistability; DER-guided design optimizes the configuration of clip here.
 date: May,2025 - Now
-venue: In Progress
+venue: In Prep.
 ---
 
 <video
