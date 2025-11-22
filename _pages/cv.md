@@ -37,7 +37,7 @@ Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf).
 - **Captain**, _Eighth Rochang Chucai Plan_, Shanghai, 2024
 - **Member**, **_Gansu Afforestation Volunteer Group_**, Gansu, 2024
 - **Captain**, **_Yunan Volunteer Teaching Group_**, Yunnan, 2024
-- **Captain Assistant**, _Miyuan Youth Volunteer Group_, Shanghai, 2024
+- **SJTU Student of the Year (Team Award, top 0.02%)**, **_Yunan Volunteer Teaching Group_**, Shanghai, 2023
 - **Member**, **_Yunan Volunteer Teaching Group_**, Yunnan, 2023
 
 # Honors & Awards
