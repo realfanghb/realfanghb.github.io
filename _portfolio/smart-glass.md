@@ -1,19 +1,32 @@
 ---
-title: "Smart Assistive Glasses for the Visually Impaired"
+title: "INSIGHT: In-device Navigation and Scene Interpretation Glasses for Human-centered Travel of Low-cost Users"
 collection: portfolio
 tags: [projects]
 permalink: /portfolio/smart-glass/
-excerpt: "A wearable system integrating ESP32-S3 smart glasses and a Jetson-based base station to provide real-time obstacle-aware navigation and scene description for visually impaired users."
+excerpt: "A wearable system integrating ESP32-S3 smart glasses and a Jetson-based base station, providing a low-cost, privacy-preserving solution for real-time obstacle-aware navigation and scene description for visually impaired users."
 date: 2025-09-28
 venue: "EECS 473 Advanced Embedded Systems – University of Michigan"
 pdf: "/files/15_SmartGlass.pdf"
 ---
 
-![Functional diagram of the base station](/images/smart-glass2.jpg)
+![Poster](/images/EECS 473 Poster.png)
+
+
+<video
+  controls
+  autoplay
+  muted
+  loop
+  playsinline
+  preload="metadata"
+  style="width:100%;max-width:900px;border-radius:12px;">
+  <source src="{{ '/videos/INSIGHT_compressed.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **_Group Members_**: **Haobo Fang**, Guanyu Xu, Ruopu Dong, Zhuoyang Chen, Jinlin Li, Yizhe Shen.
 
 **_Project Status_**: In Progress.
 For more implementation details, please refer to our [proposal](/files/15_SmartGlass.pdf).
 
-**_Abstract_**: Smart Assistive Glasses address the mobility and safety challenges faced by visually impaired individuals by combining lightweight wearable sensing with local AI computation. The system integrates an ESP32-S3-based glasses module featuring wake word detection, MEMS microphone array, OV2640 camera, vibromotor haptics, and audio feedback, with a Jetson Orin Nano base station running speech recognition, YOLO-based obstacle detection, and a compact vision–language model for scene description. This architecture enables real-time obstacle-aware navigation and contextual awareness without reliance on cloud connectivity, ensuring privacy, low latency, and robust performance. The prototype demonstrates how embedded intelligence in a practical, wearable form factor can enhance independence and quality of life for visually impaired users.
+**_Abstract_**: INSIGHT is a low-cost smart assistive eyewear system designed to improve safe mobility for people with visual impairments. Built from commodity hardware and compact on-device models, the system can be mass-produced for around $300—significantly below many existing commercial solutions. Using wireless communication between the glasses and a companion processing unit, INSIGHT provides GPS-guided navigation, obstacle-aware guidance, and natural scene descriptions in real time, all without relying on cloud connectivity. This fully local processing pipeline ensures privacy, low latency, and robust offline performance, illustrating how embedded intelligence in a practical wearable form factor can enhance independence and everyday quality of life for low-vision users.
