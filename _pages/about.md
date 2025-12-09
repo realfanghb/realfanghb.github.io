@@ -1,4 +1,6 @@
 ---
+layout: archive
+
 permalink: /
 title: "Haobo Fang 方浩博"
 author_profile: true
@@ -26,3 +28,10 @@ Hi! I’m Haobo Fang, a fourth-year undergraduate in the Electrical and Computer
 # CV
 
 Feel free to download my CV [here](/files/Resume_Haobo_Fang.pdf) or visit the CV tag.
+
+# Course Projects
+
+{% assign course_projects = site.portfolio | where_exp: "p", "p.tags contains 'projects'" %}
+{% for post in course_projects %}
+  {% include archive-mainpage.html %}
+{% endfor %}
