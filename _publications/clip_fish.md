@@ -17,7 +17,7 @@ venue: In Prep.
   playsinline
   preload="metadata"
   style="width:100%;max-width:900px;border-radius:12px;">
-  <source src="{{ '/videos/clip.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/videos/top_view.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
