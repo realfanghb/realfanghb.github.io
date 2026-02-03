@@ -1,5 +1,5 @@
 ---
-title: "Magnetically Triggered Bistable Mechanics for Insect-Scale Bioinspired Swimming"
+title: "MAGISH: MAGnetically Switched Bistable Swimming for Insect-Scale Robotic Fish"
 collection: publications
 category: ongoing
 permalink: /publication/clip_fish
