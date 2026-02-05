@@ -5,7 +5,7 @@ permalink: /portfolio/eecs473/
 tags: [courses, embedded]
 ---
 
-**_Project Status_**: Ongoing (Fall 2025).
+**_Project Status_**: Completed (A- in Fall 2025).
 
 For more details, please refer to the [course website](https://www.eecs.umich.edu/courses/eecs473/overview.html).
 

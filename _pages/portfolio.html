@@ -9,7 +9,9 @@ author_profile: true
 
 
 <h2 style="font-size:2.2rem;margin-top:1.5rem">Course Projects</h2>
-{% assign course = site.portfolio | where_exp: "p", "p.tags contains 'projects'" %}
+{% assign course = site.portfolio
+  | where_exp: "p", "p.tags contains 'projects'"
+  | sort: "order" %}
 {% for post in course %}
   {% include archive-single-portfolio.html %}
 {% endfor %}

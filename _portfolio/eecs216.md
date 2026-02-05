@@ -6,7 +6,7 @@ tags: [courses, control]
 pdf: "/files/eecs216.pdf"
 ---
 
-**_Project Status_**: Completed (A+ in Fall 2024).
+**_Project Status_**: Completed (A+ in Fall 2024). Serve as an Instructional Assistant for two terms.
 
 For more details, please refer to the [textbook](/files/eecs216.pdf).
 

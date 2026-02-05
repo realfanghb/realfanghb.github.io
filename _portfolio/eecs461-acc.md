@@ -7,6 +7,7 @@ excerpt: "Course-long exploration of embedded control using NXP S32K144 microcon
 date: 2025-04-20
 venue: "EECS 461 Embedded Control Systems – University of Michigan"
 pdf: "/files/EECS461_ACC_Final_Report.pdf"
+order: 3
 ---
 
 ![Haptic wheel and Simulink-based ACC framework](/images/eecs461-acc.jpg)
