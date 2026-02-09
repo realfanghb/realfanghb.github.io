@@ -7,8 +7,12 @@ author_profile: true
 {% include base_path %}
 
 
+<h2 style="font-size:2.2rem;margin-top:1.5rem">Course Portfolio</h2>
 
-<h2 style="font-size:2.2rem;margin-top:1.5rem">Course Projects</h2>
+<h3 style="font-size:1.5rem;margin-top:0.4rem">
+  <a href="{{ '/files/Portfolio_Embedded_Haobo_Fang.pdf' | relative_url }}">Embedded Systems Portfolio</a>
+</h3>
+
 {% assign course = site.portfolio
   | where_exp: "p", "p.tags contains 'projects'"
   | sort: "order" %}
